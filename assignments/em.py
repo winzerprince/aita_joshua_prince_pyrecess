@@ -63,3 +63,4 @@ def show_values(items: list):
 nums = list(range(1, 20))
 print("\033[2J")
 show_values(nums)
+
