@@ -1,0 +1,11 @@
+2026-06-29 18:33:51,060 - DEBUG - This is a debug message - for detailed troubleshooting
+2026-06-29 18:33:51,061 - INFO - This is an info message - general information
+2026-06-29 18:33:51,061 - WARNING - This is a warning message - something might be wrong
+2026-06-29 18:33:51,062 - ERROR - This is an error message
+2026-06-29 18:33:51,062 - CRITICAL - This is a critical message
+2026-06-29 18:33:51,062 - ERROR - Division error occurred: division by zero
+Traceback (most recent call last):
+  File "/home/winzer/code/python/class/aita_joshua_prince_pyrecess/labs/26-06-morn/fildhandling.py", line 172, in <module>
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero

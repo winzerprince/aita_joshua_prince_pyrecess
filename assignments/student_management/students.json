@@ -1,0 +1,27 @@
+{
+    "2026/BSCS/001": {
+        "Address": "Kampala Central, Uganda",
+        "Contact": "+256700000001",
+        "Program": "Bachelor of Science in Computer Science"
+    },
+    "2026/BSCS/002": {
+        "Address": "Mukono, Uganda",
+        "Contact": "+256700000002",
+        "Program": "Bachelor of Science in Computer Science"
+    },
+    "2026/BSCS/003": {
+        "Address": "Jinja, Uganda",
+        "Contact": "+256700000003",
+        "Program": "Bachelor of Science in Computer Science"
+    },
+    "2026/BSCS/004": {
+        "Address": "Mbarara, Uganda",
+        "Contact": "+256700000004",
+        "Program": "Bachelor of Science in Computer Science"
+    },
+    "2026/BSCS/005": {
+        "Address": "Gulu, Uganda",
+        "Contact": "+256700000005",
+        "Program": "Bachelor of Science in Computer Science"
+    }
+}

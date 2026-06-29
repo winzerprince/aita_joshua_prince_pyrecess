@@ -1,0 +1,3 @@
+Hello, this is a test file.
+Line 2: Learning Python file handling.
+Appended line: This is new content.
